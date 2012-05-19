@@ -18,7 +18,7 @@
     float: left;
     padding: 10px;
 }
-a:link, a:visited { color: #d3360b; }
+td a:link, td a:visited { color: #d3360b !important; }
 a:hover, a:active { background: #fff !important; color: #d3360b !important; }
 body { padding-top: 100px; }
 footer { color: #999; font-style: italic; margin-top: 100px; }
